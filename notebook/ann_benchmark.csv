@@ -1,0 +1,7 @@
+Phương pháp,Thời gian 1000 query (ms),P@10,Trùng Top-10 với chính xác,Bộ nhớ gallery (MB)
+numpy matmul + sort (chính xác),588.5,0.781,1.0,21.612
+FAISS Flat (chính xác),71.418,0.781,0.999,21.612
+"FAISS IVF (nlist=256, nprobe=1)",5.338,0.765,0.633,21.612
+"FAISS IVF (nlist=256, nprobe=4)",10.978,0.78,0.943,21.612
+"FAISS IVF (nlist=256, nprobe=16)",29.277,0.78,0.998,21.612
+"FAISS PQ (m=16, 8 bit)",182.51,0.735,0.211,0.338

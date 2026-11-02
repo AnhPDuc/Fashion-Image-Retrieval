@@ -1,0 +1,8 @@
+biến thể,Hist+LBP mAP,Hist+LBP P@10,ResNet50-L4 mAP,ResNet50-L4 P@10
+raw (không xử lý),0.1098,0.2376,0.4408,0.6386
+chỉ khử nhiễu,0.1033,0.2225,0.4074,0.6172
+tách nền Otsu (nhóm),0.0795,0.1732,0.3245,0.5533
+tách nền flood-fill,0.0891,0.1989,0.4317,0.6344
+khử nhiễu+Otsu+CLAHE (pipeline cũ),0.0768,0.1639,0.3075,0.5372
+khử nhiễu+flood,0.0864,0.1885,0.3969,0.6118
+khử nhiễu+flood+CLAHE,0.0835,0.1911,0.3798,0.5946

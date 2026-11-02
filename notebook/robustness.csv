@@ -1,0 +1,49 @@
+family,level,method,mAP
+Làm mờ (σ),0.0,Handcrafted,0.18275405162471337
+Làm mờ (σ),0.0,ResNet50 pretrained,0.43972930742677224
+Làm mờ (σ),0.0,Fine-tuned,0.6699997995876286
+Làm mờ (σ),1.0,Handcrafted,0.17893898508811548
+Làm mờ (σ),1.0,ResNet50 pretrained,0.42929995040090113
+Làm mờ (σ),1.0,Fine-tuned,0.6662203350006477
+Làm mờ (σ),2.0,Handcrafted,0.17212584537736017
+Làm mờ (σ),2.0,ResNet50 pretrained,0.3622525140279717
+Làm mờ (σ),2.0,Fine-tuned,0.629463394879599
+Làm mờ (σ),3.0,Handcrafted,0.1661476560019834
+Làm mờ (σ),3.0,ResNet50 pretrained,0.2726694864831616
+Làm mờ (σ),3.0,Fine-tuned,0.5402603235493266
+Nhiễu Gauss (σ),0.0,Handcrafted,0.18275405162471337
+Nhiễu Gauss (σ),0.0,ResNet50 pretrained,0.43972930742677224
+Nhiễu Gauss (σ),0.0,Fine-tuned,0.6699997995876286
+Nhiễu Gauss (σ),10.0,Handcrafted,0.08833791878915219
+Nhiễu Gauss (σ),10.0,ResNet50 pretrained,0.4024789742320554
+Nhiễu Gauss (σ),10.0,Fine-tuned,0.6613367549325885
+Nhiễu Gauss (σ),25.0,Handcrafted,0.08532107030685654
+Nhiễu Gauss (σ),25.0,ResNet50 pretrained,0.35542352910778763
+Nhiễu Gauss (σ),25.0,Fine-tuned,0.6439568059284816
+Nhiễu Gauss (σ),40.0,Handcrafted,0.08361258229039704
+Nhiễu Gauss (σ),40.0,ResNet50 pretrained,0.3218817454513725
+Nhiễu Gauss (σ),40.0,Fine-tuned,0.6087574205754172
+Độ sáng (×),0.5,Handcrafted,0.09233369769460989
+Độ sáng (×),0.5,ResNet50 pretrained,0.4371530603308197
+Độ sáng (×),0.5,Fine-tuned,0.6484265962301236
+Độ sáng (×),0.75,Handcrafted,0.10653083784459451
+Độ sáng (×),0.75,ResNet50 pretrained,0.44036697711395617
+Độ sáng (×),0.75,Fine-tuned,0.664560165812914
+Độ sáng (×),1.0,Handcrafted,0.18275405162471337
+Độ sáng (×),1.0,ResNet50 pretrained,0.43972930742677224
+Độ sáng (×),1.0,Fine-tuned,0.6699997995876286
+Độ sáng (×),1.4,Handcrafted,0.10877015069338355
+Độ sáng (×),1.4,ResNet50 pretrained,0.4033058311130327
+Độ sáng (×),1.4,Fine-tuned,0.5904773409084619
+Xoay (độ),0.0,Handcrafted,0.18275405162471337
+Xoay (độ),0.0,ResNet50 pretrained,0.43972930742677224
+Xoay (độ),0.0,Fine-tuned,0.6699997995876286
+Xoay (độ),10.0,Handcrafted,0.1710248083194031
+Xoay (độ),10.0,ResNet50 pretrained,0.42860801028539375
+Xoay (độ),10.0,Fine-tuned,0.6575538607018449
+Xoay (độ),20.0,Handcrafted,0.14817005175791406
+Xoay (độ),20.0,ResNet50 pretrained,0.40827324689860406
+Xoay (độ),20.0,Fine-tuned,0.6292669646742075
+Xoay (độ),30.0,Handcrafted,0.11918830637207291
+Xoay (độ),30.0,ResNet50 pretrained,0.3934159087620792
+Xoay (độ),30.0,Fine-tuned,0.561674219576503
